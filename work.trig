@@ -9,6 +9,12 @@
 @prefix sk: <https://sk.acdh.oeaw.ac.at/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+sk:provenance {
+    lk: dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
+Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
+        dcterms:title "Legal Kraus"@de .
+}
+
 lk: {
     <https://sk.acdh.oeaw.ac.at/pmb29827/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of: Die Weber"@en ;
@@ -42136,11 +42142,5 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/sk_lk00459/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> a cidoc:E55_Type .
-}
-
-sk:provenance {
-    lk: dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
-Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
-        dcterms:title "Legal Kraus"@de .
 }
 

@@ -15815,7 +15815,7 @@ lk: {
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/sk_lk00472/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/sk_lk00475/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00474/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00474/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Literarische Rundschau (Beilage Berliner Tageblatt)"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00474/appellation/0> .
 
@@ -28239,10 +28239,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Theaterwelt" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00004/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00004/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Theaterwelt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00004/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62323/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62323/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00017/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Wiener Rundschau"@en ;
@@ -28250,10 +28250,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Wiener Rundschau" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00017/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00017/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Wiener Rundschau"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00017/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00485/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00485/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00019/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Programmheft"@en ;
@@ -28261,10 +28261,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Programmheft" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00019/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00019/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Programmheft"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00019/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00488/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00488/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00032/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Sonderausgabe der Fackel"@en ;
@@ -28278,10 +28278,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Neuer Vorwärts" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00047/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00047/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neuer Vorwärts"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00047/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb58138/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb58138/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00049/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Die Gegenwart"@en ;
@@ -28289,10 +28289,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Die Gegenwart" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00049/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00049/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Gegenwart"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00049/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb60282/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb60282/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00056/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Anbruch"@en ;
@@ -28300,10 +28300,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Anbruch" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00056/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00056/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Anbruch"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00056/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb65581/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb65581/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00073/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Neues 8 Uhr-Blatt"@en ;
@@ -28317,10 +28317,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Linzer Tages-Post" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00078/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00078/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Linzer Tages-Post"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00078/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52822/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52822/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00079/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Oberösterreichische Tageszeitung"@en ;
@@ -28328,10 +28328,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Oberösterreichische Tageszeitung" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00079/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00079/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Oberösterreichische Tageszeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00079/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52863/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52863/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00083/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Grazer Tagespost"@en ;
@@ -28339,10 +28339,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Grazer Tagespost" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00083/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00083/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Grazer Tagespost"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00083/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53412/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53412/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00097/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: New Yorker Staatszeitung"@en ;
@@ -28350,10 +28350,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "New Yorker Staatszeitung" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00097/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00097/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: New Yorker Staatszeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00097/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56159/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56159/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00119/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Tage-Buch"@en ;
@@ -28361,10 +28361,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Tage-Buch" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00119/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00119/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Tage-Buch"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00119/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53557/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53557/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00127/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Tagesbote"@en ;
@@ -28372,10 +28372,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Tagesbote" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00127/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00127/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Tagesbote"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00127/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00454/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00454/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00133/appellation-date/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: 26.06.1927"@en ;
@@ -28671,10 +28671,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Der Österreichische Volkswirt" .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00470/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00470/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Österreichische Volkswirt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00470/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55032/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55032/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00471/appellation-date/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: 19.12.1922"@en ;
@@ -29499,8 +29499,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb36152/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb36152/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36152/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36152/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neue Deutsche Rundschau"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36152/appellation/0> .
 
@@ -29525,8 +29524,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb40042/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb40042/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb40042/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb40042/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Zukunft"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb40042/appellation/0> .
 
@@ -29536,16 +29534,14 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb41244/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb41244/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41244/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41244/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Fackel"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41244/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb41265/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb41265/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41265/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41265/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Wiener Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41265/appellation/0> .
 
@@ -29558,8 +29554,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb41484/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb41484/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41484/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41484/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Illustrirtes Wiener Extrablatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41484/appellation/0> .
 
@@ -29581,29 +29576,25 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb41564/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb41564/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41564/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41564/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Schaubühne"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41564/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb41572/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb41572/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41572/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41572/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Deutsche Tageszeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41572/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb42403/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb42403/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Morgen"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb42403/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb42406/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42406/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb42406/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb42406/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neue Zürcher Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb42406/appellation/0> .
 
@@ -29618,16 +29609,14 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb42987/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42987/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Moderne"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb42987/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb46493/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb46493/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb46493/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb46493/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Das Tage-Buch"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb46493/appellation/0> .
 
@@ -29637,8 +29626,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb50245/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb50245/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb50245/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb50245/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Simplicissimus"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb50245/appellation/0> .
 
@@ -29658,8 +29646,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb50445/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb50445/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb50445/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb50445/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neues 8 Uhr Blatt (8 Uhr Abendblatt)"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb50445/appellation/0> .
 
@@ -29901,8 +29888,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb52132/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb52132/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52132/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52132/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Börse"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52132/appellation/0> .
 
@@ -29933,8 +29919,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb52212/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb52212/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52212/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52212/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Pester Lloyd"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52212/appellation/0> .
 
@@ -30009,8 +29994,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb52466/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb52466/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52466/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52466/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Querulant"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52466/appellation/0> .
 
@@ -30257,8 +30241,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb53069/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53069/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53069/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53069/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Kunstwart"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53069/appellation/0> .
 
@@ -30292,8 +30275,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb53189/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53189/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53189/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53189/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Rote Tag"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53189/appellation/0> .
 
@@ -30952,8 +30934,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb55461/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb55461/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55461/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55461/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Pestrého Týdne"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55461/appellation/0> .
 
@@ -31022,8 +31003,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb55923/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb55923/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55923/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55923/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neue deutsche Blätter"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55923/appellation/0> .
 
@@ -31076,8 +31056,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb56080/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56080/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56080/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56080/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Süddeutsche Monatshefte"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56080/appellation/0> .
 
@@ -31380,8 +31359,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb56881/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56881/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56881/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56881/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Scherl’s Magazin"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56881/appellation/0> .
 
@@ -31538,8 +31516,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb57493/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb57493/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57493/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57493/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Tribüne"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57493/appellation/0> .
 
@@ -31666,8 +31643,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb57703/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb57703/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57703/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57703/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Právník"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57703/appellation/0> .
 
@@ -31726,8 +31702,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb57920/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb57920/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57920/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57920/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Přítomnost"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57920/appellation/0> .
 
@@ -31874,8 +31849,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb59220/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb59220/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb59220/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb59220/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Zeit (Sudetendeutsch)"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb59220/appellation/0> .
 
@@ -31960,8 +31934,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb59803/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb59803/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb59803/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb59803/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Berliner Lokal-Anzeiger"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb59803/appellation/0> .
 
@@ -32027,16 +32000,14 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb60438/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb60438/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb60438/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb60438/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Hamburger Illustrierte"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb60438/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb60439/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb60439/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb60439/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb60439/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Deutsche Übersee-Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb60439/appellation/0> .
 
@@ -32188,8 +32159,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb62162/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62162/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62162/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62162/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Velhagen & Klasings Monatshefte"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62162/appellation/0> .
 
@@ -32212,8 +32182,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb62209/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62209/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62209/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62209/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Deutsche Presse"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62209/appellation/0> .
 
@@ -32240,8 +32209,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb62253/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62253/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62253/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62253/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Theaterzeitung des Neuen Deutschen Theaters (Prag)"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62253/appellation/0> .
 
@@ -32425,16 +32393,14 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb62897/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62897/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62897/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62897/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: National-Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62897/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb62899/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62899/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62899/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62899/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Zeit"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62899/appellation/0> .
 
@@ -32488,16 +32454,14 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb62931/appellation-title/0> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb62931/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb63201/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb63201/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der geistige Arbeiter"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb63201/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb63231/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb63231/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb63231/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb63231/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Filmhölle"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb63231/appellation/0> .
 
@@ -32767,8 +32731,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb64035/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb64035/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb64035/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb64035/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: März"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb64035/appellation/0> .
 
@@ -32834,8 +32797,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb65406/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb65406/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65406/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb65406/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: 8 Uhr-Abendblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65406/appellation/0> .
 
@@ -32882,8 +32844,7 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/pmb65580/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb65580/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65580/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb65580/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Musikblätter des Anbruch"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65580/appellation/0> .
 
@@ -33012,10 +32973,10 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/sk_lk00032/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00032/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00032/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00032/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Sonderausgabe der Fackel"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00032/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53123/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53123/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53128/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00047/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
@@ -33245,10 +33206,10 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/sk_lk00475/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00475/appellation-title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00475/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00475/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Programmheft"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00475/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb54279/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb54279/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00472/published-expression> .
 
     sk:sk_lk00476 a frbroo:F22_Self-Contained_Expression ;
@@ -33620,23 +33581,20 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb33273/appellation-title/1> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb33273/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36133/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36133/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Pan"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36133/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62711/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62711/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41517/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41517/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Breslauer Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41517/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62876/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62876/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41550/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41550/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Tägliche Rundschau"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41550/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62850/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62850/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb42403/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42403/appellation-title/0>,
@@ -33758,11 +33716,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb52067 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52067/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52120/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52120/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Musik"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52120/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52121/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52121/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb52290/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Die Stunde"@en ;
@@ -33848,11 +33805,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb52905 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52905/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52934/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52934/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Kölner Woche"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52934/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52938/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52938/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb52961/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Neues Wiener Abendblatt"@en ;
@@ -33912,11 +33868,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb53128 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53128/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53223/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53223/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Brenner"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53223/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00140/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/sk_lk00140/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53315/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         rdfs:label "Appellation for: Shakespeare Sonnette"@en ;
@@ -34050,11 +34005,10 @@ lk: {
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53675/appellation-title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb53675/appellation-title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53675/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53675/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Bücherwurm"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53675/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53687/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53687/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53687/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         rdfs:label "Appellation for: Der Bücherwurm"@en ;
@@ -34075,11 +34029,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb53701 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53701/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53712/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53712/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Münchner Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53712/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53715/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53715/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53723/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Neue Freie Presse"@en ;
@@ -34124,11 +34077,10 @@ lk: {
 
     sk:pmb54289 a frbroo:F22_Self-Contained_Expression .
 
-    <https://sk.acdh.oeaw.ac.at/pmb54739/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb54739/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Aussiger Tag"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb54739/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb54741/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb54741/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb54748/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Wiener Allgemeine Zeitung"@en ;
@@ -34169,11 +34121,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb55388 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55388/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55412/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55412/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Wiener Mittags-Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55412/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55414/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55414/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb55414/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Wiener Mittags-Zeitung"@en ;
@@ -34209,11 +34160,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb55794 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55794/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55805/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55805/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Juristische Wochenschrift"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55805/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb87834/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb87834/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb55921/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Der Aufruf"@en ;
@@ -34225,11 +34175,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb55928 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55928/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55930/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55930/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Welt im Wort"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55930/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55932/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55932/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb55932/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Welt im Wort"@en ;
@@ -34307,11 +34256,10 @@ lk: {
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56336/appellation-title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb56336/appellation-title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56336/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56336/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Fackel"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56336/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb88193/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb88193/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb56387/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Der Gegen-Angriff"@en ;
@@ -34373,11 +34321,10 @@ lk: {
         rdfs:label "Expression: Auch eine Wohltätigkeitsvorstellung" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb56860/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56861/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56861/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Chemnitzer Tageblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56861/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56863/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56863/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb56863/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Chemnitzer Tageblatt"@en ;
@@ -34408,28 +34355,25 @@ lk: {
         cidoc:P165_incorporates sk:pmb57019 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57019/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57058/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57058/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Montag Morgen"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57058/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57060/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57060/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57096/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57096/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Frankfurter Generalanzeiger"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57096/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57098/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57098/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb57098/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Frankfurter Generalanzeiger"@en ;
         cidoc:P165_incorporates sk:pmb57098 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57098/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57100/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57100/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Frankfurter Nachrichten und Intelligenzblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57100/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57101/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57101/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb57101/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Frankfurter Nachrichten und Intelligenzblatt"@en ;
@@ -34460,17 +34404,15 @@ lk: {
         cidoc:P165_incorporates sk:pmb57600 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57600/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57638/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57638/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Brünner Tagesbote"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57638/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57640/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57640/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57652/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57652/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Lidové Noviny"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57652/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57653/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57653/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb57653/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Lidové Noviny"@en ;
@@ -34481,11 +34423,10 @@ lk: {
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb57894/appellation-title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb57894/appellation-title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57894/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57894/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Selbstwehr"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57894/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57898/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57898/published-expression> .
 
     sk:pmb57909 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Expression: Karl Kraus gestorben" ;
@@ -34500,11 +34441,10 @@ lk: {
         rdfs:label "Expression: Karl Kraus bei Haken- und Kruckenkreuz" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb58142/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb58330/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb58330/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Hochland"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb58330/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62861/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62861/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb58445/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Der Sozialdemokrat"@en ;
@@ -34530,24 +34470,22 @@ lk: {
         rdfs:label "Expression: Deutschsprachiger Kommentar zum tschechischen Gesetz über den Schutz der Ehre" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb59111/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb59117/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb59117/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Europäische Hefte vereinigt mit dem Aufruf"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb59117/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb59118/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb59118/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb59481/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb59481/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Prager Mittag"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb59481/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb59486/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb59486/published-expression> .
 
     sk:pmb59515 a frbroo:F22_Self-Contained_Expression .
 
-    <https://sk.acdh.oeaw.ac.at/pmb59515/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb59515/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Zeitschau"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb59515/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb59517/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb59517/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb59522/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00484/published-expression> .
 
@@ -34562,21 +34500,19 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb60281/appellation-title/1> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb60281/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb60295/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb60295/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Herold Berlin"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb60295/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb88209/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb88209/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb60433/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb60433/appellation-title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb60433/appellation-title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb60433/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb60433/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Scheinwerfer"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb60433/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62237/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62237/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb61358/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Neues Wiener Abendblatt"@en ;
@@ -34617,11 +34553,10 @@ lk: {
         rdfs:label "Expression: [Kritik der „Unüberwindlichen“, Frankfurter Generalanzeiger]" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb61380/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb61386/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb61386/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Wiener Mittagsblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb61386/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb61385/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb61385/published-expression> .
 
     sk:pmb61446 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Expression: [Bericht über Prozess Kraus – Arbeiter-Zeitung]" ;
@@ -34709,11 +34644,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb62640 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62640/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62806/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62806/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Zeit-Echo"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62806/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62808/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62808/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb62813/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Das Kleine Journal"@en ;
@@ -34751,11 +34685,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb62868/appellation-title/1> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb62868/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62901/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62901/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Breslauer General-Anzeiger"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62901/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62902/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62902/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb62902/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Breslauer General-Anzeiger"@en ;
@@ -34766,11 +34699,10 @@ lk: {
         rdfs:label "Expression: [Prozessbericht über Tappert/Lackowitz - Kerr]" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb62904/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62913/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62913/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Allgemeiner Tiroler Anzeiger"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62913/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62915/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62915/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb62918/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Die neue Rundschau"@en ;
@@ -34786,11 +34718,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb63247 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb63247/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb63641/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb63641/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Wiener Neueste Nachrichten"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb63641/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52981/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52981/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb63645/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Arbeiter-Zeitung"@en ;
@@ -34851,11 +34782,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb65444 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65444/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65450/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb65450/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neues 8 Uhr Blatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65450/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50670/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50670/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb65581/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Anbruch"@en ;
@@ -34867,28 +34797,25 @@ lk: {
         cidoc:P165_incorporates sk:pmb65590 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65590/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65697/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb65697/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Querschnitt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65697/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb65706/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb65706/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb65706/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Der Querschnitt"@en ;
         cidoc:P165_incorporates sk:pmb65706 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65706/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65910/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb65910/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Weltspiegel"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65910/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52906/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52906/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb87695/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb87695/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Rote Fahne"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb87695/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb87697/published-expression> .
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb87697/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb87753/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Issue: Berliner Tageblatt"@en ;
@@ -34962,25 +34889,22 @@ lk: {
         rdfs:label "Expression: Macbeth" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb33366/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36156/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36156/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die neue Rundschau"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36156/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53191/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53191/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb62918/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36344/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36344/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Frankfurter Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36344/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56872/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56872/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57054/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41289/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41289/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Berliner Börsen-Courier"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41289/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53046/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53046/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb65259/published-expression> .
 
     sk:pmb50443 a frbroo:F22_Self-Contained_Expression ;
@@ -35689,11 +35613,10 @@ lk: {
         rdfs:label "Issue: Neues Wiener Tagblatt"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53727/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53851/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53851/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Wiener Tag"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53851/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53857/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53857/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb61554/published-expression> .
 
     sk:pmb53857 a frbroo:F22_Self-Contained_Expression ;
@@ -35710,11 +35633,10 @@ lk: {
         rdfs:label "Issue: Hamburger Fremdenblatt"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53862/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53863/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53863/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Hamburger Fremdenblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53863/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53862/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53862/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53866/published-expression> .
 
     sk:pmb53866 a frbroo:F22_Self-Contained_Expression ;
@@ -35732,11 +35654,10 @@ lk: {
         rdfs:label "Issue: Ostrauer Zeitung"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53881/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53882/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53882/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Ostrauer Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53882/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53881/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53881/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53896/published-expression> .
 
     sk:pmb53896 a frbroo:F22_Self-Contained_Expression ;
@@ -35826,11 +35747,10 @@ lk: {
         rdfs:label "Expression: Kommentar zum österreichischen Strafrecht" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb54798/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb54804/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb54804/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Wahrheit"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb54804/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb54811/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb54811/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55928/published-expression> .
 
     sk:pmb54811 a frbroo:F22_Self-Contained_Expression ;
@@ -35853,11 +35773,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb54823 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb54823/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55026/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55026/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Das Kleine Blatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55026/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55028/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55028/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb59201/published-expression> .
 
     sk:pmb55028 a frbroo:F22_Self-Contained_Expression ;
@@ -35950,11 +35869,10 @@ lk: {
         rdfs:label "Expression: Verleumdungsparadies" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb55774/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55790/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55790/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Österreichisches Abendblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55790/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55796/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55796/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55812/published-expression> .
 
     sk:pmb55794 a frbroo:F22_Self-Contained_Expression ;
@@ -36410,11 +36328,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb57399 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57399/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57410/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57410/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Brünner Volksfreund"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57410/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57591/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57591/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00468/published-expression> .
 
     sk:pmb57422 a frbroo:F22_Self-Contained_Expression ;
@@ -36708,11 +36625,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb58028 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb58028/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb58129/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb58129/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Vorwärts"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb58129/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62931/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62931/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb65233/published-expression> .
 
     sk:pmb58138 a frbroo:F22_Self-Contained_Expression ;
@@ -37544,11 +37460,10 @@ lk: {
         rdfs:label "Issue: Der Querschnitt"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb65706/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65921/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb65921/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neues Wiener Abendblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb65921/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52961/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52961/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb61358/published-expression> .
 
     sk:pmb87697 a frbroo:F22_Self-Contained_Expression ;
@@ -37879,11 +37794,10 @@ lk: {
         rdfs:label "Expression: Der Zauberberg. Roman" ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb33247/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb47189/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb47189/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Völkischer Beobachter"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb47189/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53033/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53033/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53041/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53076/published-expression> .
 
@@ -38008,11 +37922,10 @@ lk: {
         rdfs:label "Text: Mit den Reinhardt-Leuten ins Grüne"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb52519/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52605/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52605/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Vossische Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52605/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56901/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56901/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57019/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb63921/published-expression> .
 
@@ -38128,11 +38041,10 @@ lk: {
         rdfs:label "Text: Berliner Tageblatt"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53420/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53441/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53441/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Volkskampf"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53441/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53443/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53443/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53619/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00463/published-expression> .
 
@@ -38193,11 +38105,10 @@ lk: {
         rdfs:label "Text: Karl Kraus zu fünfhundert Schilling verurteilt. Wegen Beleidigung des Musikkritikers Dr. Pisk"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53854/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53877/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb53877/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Silesia"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53877/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53904/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53904/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53907/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00482/published-expression> .
 
@@ -38325,11 +38236,10 @@ lk: {
         rdfs:label "Text: [Erwiderung auf „Eine Lanze für Karl Kraus“]"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb56203/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56207/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56207/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: České slovo"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56207/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57597/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57597/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57905/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb59216/published-expression> .
 
@@ -38397,11 +38307,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb56410 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56410/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56458/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56458/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Hamburger Nachrichten"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56458/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55884/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55884/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56457/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb63961/published-expression> .
 
@@ -38958,11 +38867,10 @@ lk: {
         rdfs:label "Text: Genossen unter sich. Karl Kraus, Bekessy, Eldersch und Mataja"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb87704/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb87708/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb87708/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Fränkischer Kurier"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb87708/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53199/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53199/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53363/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53535/published-expression> .
 
@@ -38975,10 +38883,10 @@ lk: {
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb88193/title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb88193/title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00073/published-expression> a cidoc:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/sk_lk00073/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neues 8 Uhr-Blatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00073/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50443/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50443/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb50444/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb50829/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb59649/published-expression>,
@@ -39013,20 +38921,18 @@ lk: {
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb33273/title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb33273/title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36374/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36374/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neue Freie Presse"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36374/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52818/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52818/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53723/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb59335/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb65240/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb39950/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb39950/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Wiener Allgemeine Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb39950/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53440/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53440/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53615/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb54748/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00462/published-expression> .
@@ -39044,11 +38950,10 @@ lk: {
         rdfs:label "Text: Musikalische Probleme des Films"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb52123/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52154/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52154/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Bühne"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52154/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52512/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52512/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53455/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55071/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00460/published-expression> .
@@ -39071,11 +38976,10 @@ lk: {
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb52663/title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb52663/title/1> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb52676/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb52676/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Arbeit und Wirtschaft"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb52676/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52681/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52681/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb52684/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb52783/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb52813/published-expression> .
@@ -39165,11 +39069,10 @@ lk: {
         rdfs:label "Text: Karl Kraus: „Die Unüberwindlichen“"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb55886/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55906/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55906/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Aufruf"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55906/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55904/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55904/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55921/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55942/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56410/published-expression> .
@@ -39415,12 +39318,11 @@ lk: {
         rdfs:label "Text: Kaiser Josef II. und seine Geliebte"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb65692/title/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb42850/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb42850/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Reichspost"@en,
             "Periodical: Reichspost"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb42850/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50657/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50657/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53697/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57422/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57482/published-expression>,
@@ -39437,11 +39339,10 @@ lk: {
         cidoc:P165_incorporates sk:pmb57366 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57366/appellation/0> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb57488/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb57488/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Kampf"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb57488/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57605/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb57605/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57770/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57891/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb58928/published-expression>,
@@ -39454,33 +39355,30 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/types/translation> a cidoc:E55_Type .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55458/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55458/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Prager Presse"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55458/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55454/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55454/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55455/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55960/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57627/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb63247/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb64530/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62394/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb62394/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Das Kleine Journal"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb62394/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62547/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb62547/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb62637/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb62813/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb62818/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb62846/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00144/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41321/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41321/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neues Wiener Tagblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41321/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53365/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53365/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53369/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53393/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53403/published-expression>,
@@ -39489,11 +39387,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb65506/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb65515/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36364/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36364/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Abend"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36364/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53467/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53467/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53470/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53472/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53479/published-expression>,
@@ -39503,11 +39400,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb61370/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb87941/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41507/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41507/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Prager Tagblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41507/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56243/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56243/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56295/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56296/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57621/published-expression>,
@@ -39520,11 +39416,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb59105/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb61449/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56392/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb56392/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Sozialdemokrat"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb56392/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56394/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb56394/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57426/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57450/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57460/published-expression>,
@@ -39539,11 +39434,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb58028/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb58445/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb36376/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb36376/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Neues Wiener Journal"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb36376/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52637/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52637/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb52905/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53498/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53653/published-expression>,
@@ -39561,11 +39455,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb87705/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00483/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41531/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41531/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Berliner Tageblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41531/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53048/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53048/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53052/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53416/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53418/published-expression>,
@@ -39584,11 +39477,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb87753/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00489/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41560/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41560/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Tag"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41560/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50647/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50647/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb52811/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb55199/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb57288/published-expression>,
@@ -39613,11 +39505,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/sk_lk00502/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00503/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb54745/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb54745/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Berliner Börsen-Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb54745/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb63654/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb63654/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb63876/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb63883/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb63887/published-expression>,
@@ -39642,11 +39533,10 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/sk_lk00481/published-expression>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00487/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55934/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb55934/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Der Gegen-Angriff"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb55934/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55935/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb55935/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56190/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56201/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb56213/published-expression>,
@@ -39674,12 +39564,11 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/types/appellation/title/sub> a cidoc:E55_Type .
 
-    <https://sk.acdh.oeaw.ac.at/pmb41202/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb41202/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Arbeiter Zeitung"@en,
             "Periodical: Arbeiter-Zeitung"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41202/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52210/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb52210/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb52623/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53058/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53096/published-expression>,
@@ -39708,11 +39597,10 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/types/event/first> a cidoc:E55_Type .
 
-    <https://sk.acdh.oeaw.ac.at/pmb50611/published-expression> a cidoc:F24_Publication_Expression,
-            frbroo:F24_Publication_Expression ;
+    <https://sk.acdh.oeaw.ac.at/pmb50611/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Periodical: Die Stunde"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb50611/appellation/0> ;
-        cidoc:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50750/published-expression>,
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb50750/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb50754/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb50892/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb50894/published-expression>,

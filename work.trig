@@ -3672,7 +3672,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb53123/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Sonderausgabe der Fackel" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb53123/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb53123/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/sk_lk00032/published-expression> .
 
@@ -3690,7 +3689,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb53128/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Sonderausgabe der Fackel" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb53128/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb53128/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/sk_lk00032/published-expression> .
 
@@ -5837,7 +5835,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb54811/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Die Wahrheit" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb54811/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb54811/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb54804/published-expression> .
 
@@ -6796,7 +6793,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb55928/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Die Wahrheit" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb55928/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb55928/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb54804/published-expression> .
 
@@ -6826,7 +6822,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb55932/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Welt im Wort" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb55932/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb55932/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb55930/published-expression> .
 
@@ -7884,7 +7879,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb56429/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Der Gegen-Angriff" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb56429/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb56429/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb55934/published-expression> .
 
@@ -7902,7 +7896,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb56431/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Der Gegen-Angriff" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb56431/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb56431/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb55934/published-expression> .
 
@@ -7920,7 +7913,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb56433/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Der Gegen-Angriff" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb56433/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb56433/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb55934/published-expression> .
 
@@ -10777,7 +10769,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb59118/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Europäische Hefte vereinigt mit dem Aufruf" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb59118/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb59118/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb59117/published-expression> .
 
@@ -13017,7 +13008,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb62323/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Theaterwelt" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb62323/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb62323/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/sk_lk00004/published-expression> .
 
@@ -15575,7 +15565,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb65581/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Anbruch" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb65581/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb65581/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/sk_lk00056/published-expression> .
 
@@ -16212,7 +16201,6 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00484/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Zeitschau" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/sk_lk00484/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/sk_lk00484/published-expression> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb59515/published-expression> .
 
@@ -19487,11 +19475,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Sonderausgabe der Fackel" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53123/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb53123/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Sonderausgabe der Fackel"@en ;
         cidoc:P102i_is_title_of sk:pmb53123 ;
@@ -19513,11 +19496,6 @@ lk: {
         cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb53128/appellation/0> ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Sonderausgabe der Fackel" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53128/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
 
     <https://sk.acdh.oeaw.ac.at/pmb53128/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Sonderausgabe der Fackel"@en ;
@@ -21498,11 +21476,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Die Wahrheit" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb54811/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb54811/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Die Wahrheit"@en ;
         cidoc:P102i_is_title_of sk:pmb54811 ;
@@ -22372,11 +22345,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Die Wahrheit" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb55928/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb55928/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Die Wahrheit"@en ;
         cidoc:P102i_is_title_of sk:pmb55928 ;
@@ -22404,11 +22372,6 @@ lk: {
         cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb55932/appellation/0> ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Welt im Wort" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb55932/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
 
     <https://sk.acdh.oeaw.ac.at/pmb55932/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Welt im Wort"@en ;
@@ -23360,11 +23323,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Der Gegen-Angriff" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56429/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb56429/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Der Gegen-Angriff"@en ;
         cidoc:P102i_is_title_of sk:pmb56429 ;
@@ -23387,11 +23345,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Der Gegen-Angriff" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb56431/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb56431/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Der Gegen-Angriff"@en ;
         cidoc:P102i_is_title_of sk:pmb56431 ;
@@ -23413,11 +23366,6 @@ lk: {
         cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb56433/appellation/0> ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Der Gegen-Angriff" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb56433/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
 
     <https://sk.acdh.oeaw.ac.at/pmb56433/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Der Gegen-Angriff"@en ;
@@ -25754,11 +25702,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Europäische Hefte vereinigt mit dem Aufruf" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb59118/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb59118/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Europäische Hefte vereinigt mit dem Aufruf"@en ;
         cidoc:P102i_is_title_of sk:pmb59118 ;
@@ -27440,11 +27383,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Theaterwelt" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb62323/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb62323/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Theaterwelt"@en ;
         cidoc:P102i_is_title_of sk:pmb62323 ;
@@ -28137,12 +28075,9 @@ lk: {
         rdf:value "Allgemeiner Tiroler Anzeiger" .
 
     <https://sk.acdh.oeaw.ac.at/pmb62915/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "1920-02-10"^^xsd:string,
-            "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "1920-02-10"^^xsd:date,
-            "undefined"@en ;
-        cidoc:P82b_end_of_the_end "1920-02-10"^^xsd:date,
-            "undefined"@en .
+        rdfs:label "1920-02-10"^^xsd:string ;
+        cidoc:P82a_begin_of_the_begin "1920-02-10"^^xsd:date ;
+        cidoc:P82b_end_of_the_end "1920-02-10"^^xsd:date .
 
     <https://sk.acdh.oeaw.ac.at/pmb62915/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Allgemeiner Tiroler Anzeiger"@en ;
@@ -29764,11 +29699,6 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Anbruch" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb65581/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
-
     <https://sk.acdh.oeaw.ac.at/pmb65581/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Anbruch"@en ;
         cidoc:P102i_is_title_of sk:pmb65581 ;
@@ -31082,11 +31012,6 @@ lk: {
         cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation/0> ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
         rdf:value "Zeitschau" .
-
-    <https://sk.acdh.oeaw.ac.at/sk_lk00484/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "undefined"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "undefined"@en ;
-        cidoc:P82b_end_of_the_end "undefined"@en .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00484/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: Zeitschau"@en ;

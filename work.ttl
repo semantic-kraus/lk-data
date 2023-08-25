@@ -13955,11 +13955,6 @@
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> ;
     rdf:value "https://pmb.acdh.oeaw.ac.at/entity/63838" .
 
-<https://sk.acdh.oeaw.ac.at/pmb63838/performance> a frbroo:F31_Performance ;
-    rdfs:label "Performance / Recital of: Die neue Stadt"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
-    frbroo:R66_included_performance_version_of sk:pmb63838 .
-
 <https://sk.acdh.oeaw.ac.at/pmb63857/creation> a frbroo:F28_Expression_Creation ;
     rdfs:label "Creation of: Danton’s Tod"@en ;
     cidoc:P14_carried_out_by sk:pmb6556 ;
@@ -14112,11 +14107,6 @@
     cidoc:P1i_identifies sk:pmb63885 ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> ;
     rdf:value "https://pmb.acdh.oeaw.ac.at/entity/63885" .
-
-<https://sk.acdh.oeaw.ac.at/pmb63885/performance> a frbroo:F31_Performance ;
-    rdfs:label "Performance / Recital of: Simon Boccanegra"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
-    frbroo:R66_included_performance_version_of sk:pmb63885 .
 
 <https://sk.acdh.oeaw.ac.at/pmb63887/identifier/idno/0> a cidoc:E42_Identifier ;
     rdfs:label "Identifier: pmb63887"@en ;
@@ -16009,10 +15999,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb30421 .
 
 <https://sk.acdh.oeaw.ac.at/pmb30421/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1874-01-01"^^xsd:string ;
+    rdfs:label "1874"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb30421/performance> ;
-    cidoc:P82a_begin_of_the_begin "1874-01-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1874-01-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1874"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1874"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb30421/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Fledermaus"@en ;
@@ -16067,10 +16057,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb31181 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31181/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1783-07-02"^^xsd:string ;
+    rdfs:label "1783"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb31181/performance> ;
-    cidoc:P82a_begin_of_the_begin "1783-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1783-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1783"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1783"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb31181/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Verschwörung des Fiesko zu Genua"@en ;
@@ -16162,10 +16152,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb31671 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31671/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1604-07-01"^^xsd:string ;
+    rdfs:label "1604"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb31671/performance> ;
-    cidoc:P82a_begin_of_the_begin "1604-07-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1604-07-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1604"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1604"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb31671/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Othello"@en ;
@@ -16180,10 +16170,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb31729 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31729/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1852-07-01"^^xsd:string ;
+    rdfs:label "1852"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb31729/performance> ;
-    cidoc:P82a_begin_of_the_begin "1852-07-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1852-07-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1852"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1852"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb31729/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Journalisten"@en ;
@@ -16204,10 +16194,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb31929 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31929/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1767-07-02"^^xsd:string ;
+    rdfs:label "1767"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb31929/performance> ;
-    cidoc:P82a_begin_of_the_begin "1767-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1767-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1767"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1767"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb31929/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Minna von Barnhelm oder das Soldatenglück"@en ;
@@ -16222,10 +16212,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb32043 .
 
 <https://sk.acdh.oeaw.ac.at/pmb32043/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1914-07-02"^^xsd:string ;
+    rdfs:label "1914"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb32043/performance> ;
-    cidoc:P82a_begin_of_the_begin "1914-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1914-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1914"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1914"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb32043/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Der Querulant"@en ;
@@ -16286,10 +16276,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb32850 .
 
 <https://sk.acdh.oeaw.ac.at/pmb32850/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1833-07-02"^^xsd:string ;
+    rdfs:label "1833"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb32850/performance> ;
-    cidoc:P82a_begin_of_the_begin "1833-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1833-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1833"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1833"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb32850/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Der böse Geist Lumpazivagabundus oder Das liederliche Kleeblatt"@en ;
@@ -17459,10 +17449,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb51907 .
 
 <https://sk.acdh.oeaw.ac.at/pmb51907/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1925-07-02"^^xsd:string ;
+    rdfs:label "1925"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb51907/performance> ;
-    cidoc:P82a_begin_of_the_begin "1925-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1925-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1925"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1925"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb51907/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Der Affe Zarathustras"@en ;
@@ -18608,10 +18598,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb52902 .
 
 <https://sk.acdh.oeaw.ac.at/pmb52902/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1885-07-02"^^xsd:string ;
+    rdfs:label "1885"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb52902/performance> ;
-    cidoc:P82a_begin_of_the_begin "1885-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1885-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1885"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1885"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb52902/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Der Zigeunerbaron"@en ;
@@ -18626,10 +18616,10 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     frbroo:R66_included_performance_version_of sk:pmb52904 .
 
 <https://sk.acdh.oeaw.ac.at/pmb52904/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1880-07-01"^^xsd:string ;
+    rdfs:label "1880"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb52904/performance> ;
-    cidoc:P82a_begin_of_the_begin "1880-07-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1880-07-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1880"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1880"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb52904/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Das Spitzentuch der Königin"@en ;
@@ -20185,10 +20175,10 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb53658 .
 
 <https://sk.acdh.oeaw.ac.at/pmb53658/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1869-07-02"^^xsd:string ;
+    rdfs:label "1869"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb53658/performance> ;
-    cidoc:P82a_begin_of_the_begin "1869-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1869-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1869"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1869"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb53658/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Briganten"@en ;
@@ -20725,10 +20715,10 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb53926 .
 
 <https://sk.acdh.oeaw.ac.at/pmb53926/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1837-07-02"^^xsd:string ;
+    rdfs:label "1837-07"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb53926/performance> ;
-    cidoc:P82a_begin_of_the_begin "1837-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1837-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1837-07"^^xsd:gYearMonth ;
+    cidoc:P82b_end_of_the_end "1837-07"^^xsd:gYearMonth .
 
 <https://sk.acdh.oeaw.ac.at/pmb53926/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Eine Wohnung ist zu vermiethen in der Stadt"@en ;
@@ -21233,10 +21223,10 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb55033 .
 
 <https://sk.acdh.oeaw.ac.at/pmb55033/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1928-02-15"^^xsd:string ;
+    rdfs:label "1928-02"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb55033/performance> ;
-    cidoc:P82a_begin_of_the_begin "1928-02-15"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1928-02-15"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1928-02"^^xsd:gYearMonth ;
+    cidoc:P82b_end_of_the_end "1928-02"^^xsd:gYearMonth .
 
 <https://sk.acdh.oeaw.ac.at/pmb55033/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Wirtschaft und Öffentliche Sicherheit"@en ;
@@ -21720,10 +21710,10 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb55661 .
 
 <https://sk.acdh.oeaw.ac.at/pmb55661/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1929-07-02"^^xsd:string ;
+    rdfs:label "1929"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb55661/performance> ;
-    cidoc:P82a_begin_of_the_begin "1929-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1929-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1929"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1929"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb55661/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Das Land ohne Frauen"@en ;
@@ -23231,10 +23221,10 @@ sk:pmb56707orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb56823 .
 
 <https://sk.acdh.oeaw.ac.at/pmb56823/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1861-07-02"^^xsd:string ;
+    rdfs:label "1861"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb56823/performance> ;
-    cidoc:P82a_begin_of_the_begin "1861-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1861-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1861"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1861"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb56823/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Seufzerbrücke"@en ;
@@ -24588,10 +24578,10 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb57726 .
 
 <https://sk.acdh.oeaw.ac.at/pmb57726/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1861-07-02"^^xsd:string ;
+    rdfs:label "1861"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb57726/performance> ;
-    cidoc:P82a_begin_of_the_begin "1861-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1861-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1861"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1861"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb57726/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Fortunios Lied"@en ;
@@ -24606,10 +24596,10 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb57728 .
 
 <https://sk.acdh.oeaw.ac.at/pmb57728/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1868-07-01"^^xsd:string ;
+    rdfs:label "1868"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb57728/performance> ;
-    cidoc:P82a_begin_of_the_begin "1868-07-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1868-07-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1868"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1868"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb57728/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Insel Tulipatan"@en ;
@@ -25901,10 +25891,10 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb60417 .
 
 <https://sk.acdh.oeaw.ac.at/pmb60417/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1925-07-02"^^xsd:string ;
+    rdfs:label "1925"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb60417/performance> ;
-    cidoc:P82a_begin_of_the_begin "1925-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1925-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1925"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1925"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb60417/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: The Merry Widow"@en ;
@@ -26000,10 +25990,10 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb60654 .
 
 <https://sk.acdh.oeaw.ac.at/pmb60654/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1875-07-02"^^xsd:string ;
+    rdfs:label "1875"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb60654/performance> ;
-    cidoc:P82a_begin_of_the_begin "1875-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1875-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1875"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1875"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb60654/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die Reise zum Mond"@en ;
@@ -26018,10 +26008,10 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb60656 .
 
 <https://sk.acdh.oeaw.ac.at/pmb60656/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1869-07-02"^^xsd:string ;
+    rdfs:label "1869"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb60656/performance> ;
-    cidoc:P82a_begin_of_the_begin "1869-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1869-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1869"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1869"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb60656/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Prinzessin von Trapezunt"@en ;
@@ -26345,10 +26335,10 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb61461 .
 
 <https://sk.acdh.oeaw.ac.at/pmb61461/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1772-07-01"^^xsd:string ;
+    rdfs:label "1772"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb61461/performance> ;
-    cidoc:P82a_begin_of_the_begin "1772-07-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1772-07-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1772"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1772"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb61461/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Emilia Galotti"@en ;
@@ -26819,10 +26809,10 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb62199 .
 
 <https://sk.acdh.oeaw.ac.at/pmb62199/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1869-07-02"^^xsd:string ;
+    rdfs:label "1869"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb62199/performance> ;
-    cidoc:P82a_begin_of_the_begin "1869-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1869-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1869"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1869"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb62199/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Vert-Vert"@en ;
@@ -28094,6 +28084,18 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/sub> ;
     rdf:value "Vorlesungen gehalten in der Deutschen Vereinigung für staatswissenschaftliche Fortbildung" .
 
+<https://sk.acdh.oeaw.ac.at/pmb63838/performance> a frbroo:F31_Performance ;
+    rdfs:label "Performance / Recital of: Die neue Stadt"@en ;
+    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
+    cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb63838/performance/time-span> ;
+    frbroo:R66_included_performance_version_of sk:pmb63838 .
+
+<https://sk.acdh.oeaw.ac.at/pmb63838/performance/time-span> a cidoc:E52_Time-Span ;
+    rdfs:label "1926"^^xsd:string ;
+    cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb63838/performance> ;
+    cidoc:P82a_begin_of_the_begin "1926"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1926"^^xsd:gYear .
+
 <https://sk.acdh.oeaw.ac.at/pmb63838/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Die neue Stadt"@en ;
     cidoc:P102i_is_title_of sk:pmb63838 ;
@@ -28220,6 +28222,18 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P102i_is_title_of sk:pmb63883 ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Berliner Börsen-Zeitung" .
+
+<https://sk.acdh.oeaw.ac.at/pmb63885/performance> a frbroo:F31_Performance ;
+    rdfs:label "Performance / Recital of: Simon Boccanegra"@en ;
+    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
+    cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb63885/performance/time-span> ;
+    frbroo:R66_included_performance_version_of sk:pmb63885 .
+
+<https://sk.acdh.oeaw.ac.at/pmb63885/performance/time-span> a cidoc:E52_Time-Span ;
+    rdfs:label "1857"^^xsd:string ;
+    cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb63885/performance> ;
+    cidoc:P82a_begin_of_the_begin "1857"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1857"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb63885/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Simon Boccanegra"@en ;
@@ -29594,10 +29608,10 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb87767 .
 
 <https://sk.acdh.oeaw.ac.at/pmb87767/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1928-07-01"^^xsd:string ;
+    rdfs:label "1928"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb87767/performance> ;
-    cidoc:P82a_begin_of_the_begin "1928-07-01"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1928-07-01"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1928"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1928"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb87767/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Aetherwellen"@en ;
@@ -29757,10 +29771,10 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     frbroo:R66_included_performance_version_of sk:pmb88255 .
 
 <https://sk.acdh.oeaw.ac.at/pmb88255/performance/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1935-07-02"^^xsd:string ;
+    rdfs:label "1935"^^xsd:string ;
     cidoc:P4i_is_time-span_of <https://sk.acdh.oeaw.ac.at/pmb88255/performance> ;
-    cidoc:P82a_begin_of_the_begin "1935-07-02"^^xsd:date ;
-    cidoc:P82b_end_of_the_end "1935-07-02"^^xsd:date .
+    cidoc:P82a_begin_of_the_begin "1935"^^xsd:gYear ;
+    cidoc:P82b_end_of_the_end "1935"^^xsd:gYear .
 
 <https://sk.acdh.oeaw.ac.at/pmb88255/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Mad Love"@en ;

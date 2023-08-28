@@ -19081,11 +19081,6 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Arbeiter-Zeitung" .
 
-<https://sk.acdh.oeaw.ac.at/pmb53123/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb53123/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 1 (= Schoberlied)"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -19102,11 +19097,6 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     cidoc:P102i_is_title_of sk:pmb53123 ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Sonderausgabe der Fackel" .
-
-<https://sk.acdh.oeaw.ac.at/pmb53128/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
 
 <https://sk.acdh.oeaw.ac.at/pmb53128/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 2(= Für Sangesbrüder)"@en ;
@@ -21082,11 +21072,6 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
     rdf:value "Die Wahrheit" .
 
-<https://sk.acdh.oeaw.ac.at/pmb54811/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb54811/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 12"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -21951,11 +21936,6 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
     rdf:value "Neue deutsche Blätter" .
 
-<https://sk.acdh.oeaw.ac.at/pmb55928/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb55928/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 32"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -21978,11 +21958,6 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb55930/appellation/0> ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
     rdf:value "Welt im Wort" .
-
-<https://sk.acdh.oeaw.ac.at/pmb55932/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
 
 <https://sk.acdh.oeaw.ac.at/pmb55932/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 9"@en ;
@@ -22929,11 +22904,6 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Zu diesem Karl Kraus" .
 
-<https://sk.acdh.oeaw.ac.at/pmb56429/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb56429/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 34"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -22951,11 +22921,6 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Der Gegen-Angriff" .
 
-<https://sk.acdh.oeaw.ac.at/pmb56431/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb56431/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 37"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -22972,11 +22937,6 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P102i_is_title_of sk:pmb56431 ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Der Gegen-Angriff" .
-
-<https://sk.acdh.oeaw.ac.at/pmb56433/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
 
 <https://sk.acdh.oeaw.ac.at/pmb56433/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 33"@en ;
@@ -25308,11 +25268,6 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
     rdf:value "Europäische Hefte vereinigt mit dem Aufruf" .
 
-<https://sk.acdh.oeaw.ac.at/pmb59118/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb59118/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 5"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -26989,11 +26944,6 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Die Blume von Hawaii" .
 
-<https://sk.acdh.oeaw.ac.at/pmb62323/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb62323/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Nr. 3"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
@@ -27674,11 +27624,9 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     rdf:value "Aus Stadt und Land. Der Tiroler Antisemitenbund und die Kraus-Vorlesung" .
 
 <https://sk.acdh.oeaw.ac.at/pmb62915/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: 10.02.1920"@en,
-        "Appellation Part: None"@en ;
+    rdfs:label "Appellation Part: 10.02.1920"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "10.02.1920",
-        "None" .
+    rdf:value "10.02.1920" .
 
 <https://sk.acdh.oeaw.ac.at/pmb62915/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: 13. Jhg"@en ;
@@ -29324,11 +29272,6 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
     rdf:value "Musikblätter des Anbruch" .
 
-<https://sk.acdh.oeaw.ac.at/pmb65581/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
-
 <https://sk.acdh.oeaw.ac.at/pmb65581/appellation-num/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Jg. 11"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/volume> ;
@@ -30647,11 +30590,6 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P102i_is_title_of sk:sk_lk00483 ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Neues Wiener Journal" .
-
-<https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: None"@en ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-    rdf:value "None" .
 
 <https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation-title/0> a cidoc:E90_Symbolic_Object ;
     rdfs:label "Appellation Part: Zeitschau"@en ;
@@ -32030,15 +31968,13 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb53123/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Sonderausgabe der Fackel"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53123/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb53123/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53123/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb53123/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb53123/published-expression> .
 
 <https://sk.acdh.oeaw.ac.at/pmb53128/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Sonderausgabe der Fackel"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53128/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb53128/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53128/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb53128/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb53128/published-expression> .
 
@@ -32547,8 +32483,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb54811/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Die Wahrheit"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb54811/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb54811/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb54811/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb54811/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb54811/published-expression> .
 
@@ -32779,8 +32714,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb55928/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Die Wahrheit"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb55928/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb55928/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb55928/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb55928/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb55928/published-expression> .
 
@@ -32789,8 +32723,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb55932/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Welt im Wort"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb55932/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb55932/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb55932/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb55932/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb55932/published-expression> .
 
@@ -33016,22 +32949,19 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb56429/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Der Gegen-Angriff"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56429/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb56429/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56429/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb56429/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb56429/published-expression> .
 
 <https://sk.acdh.oeaw.ac.at/pmb56431/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Der Gegen-Angriff"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56431/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb56431/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56431/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb56431/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb56431/published-expression> .
 
 <https://sk.acdh.oeaw.ac.at/pmb56433/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Der Gegen-Angriff"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56433/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb56433/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb56433/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb56433/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb56433/published-expression> .
 
@@ -33597,8 +33527,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb59118/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Europäische Hefte vereinigt mit dem Aufruf"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb59118/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb59118/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb59118/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb59118/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb59118/published-expression> .
 
@@ -34001,8 +33930,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb62323/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Theaterwelt"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62323/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb62323/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb62323/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb62323/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb62323/published-expression> .
 
@@ -34620,8 +34548,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/pmb65581/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Anbruch"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb65581/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/pmb65581/appellation-num/0>,
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb65581/appellation-num/0>,
         <https://sk.acdh.oeaw.ac.at/pmb65581/appellation-num/1>,
         <https://sk.acdh.oeaw.ac.at/pmb65581/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb65581/published-expression> .
@@ -35099,8 +35026,7 @@ sk:sk_lk00484 a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
     rdfs:label "Appellation for: Zeitschau"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation-date/0>,
-        <https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation-title/0> ;
+    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00484/appellation-title/0> ;
     cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/sk_lk00484/published-expression> .
 
 sk:sk_lk00485 a frbroo:F22_Self-Contained_Expression ;

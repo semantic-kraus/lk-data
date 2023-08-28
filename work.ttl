@@ -41658,6 +41658,12 @@ sk:pmb63932 a frbroo:F22_Self-Contained_Expression ;
 
 <https://sk.acdh.oeaw.ac.at/types/event/first> a cidoc:E55_Type .
 
+<https://sk.acdh.oeaw.ac.at/types/appellation/ed> a cidoc:E55_Type .
+
+<https://sk.acdh.oeaw.ac.at/types/title/sub> a cidoc:E55_Type .
+
+<https://sk.acdh.oeaw.ac.at/types/appellation/num/volume> a cidoc:E55_Type .
+
 <https://sk.acdh.oeaw.ac.at/pmb50611/published-expression> a frbroo:F24_Publication_Expression ;
     rdfs:label "Periodical: Die Stunde"@en ;
     cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb50611/appellation/0> ;
@@ -41704,5 +41710,15 @@ sk:pmb63932 a frbroo:F22_Self-Contained_Expression ;
         <https://sk.acdh.oeaw.ac.at/sk_lk00458/published-expression>,
         <https://sk.acdh.oeaw.ac.at/sk_lk00459/published-expression> .
 
+<https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> a cidoc:E55_Type .
+
+<https://sk.acdh.oeaw.ac.at/types/appellation/date> a cidoc:E55_Type .
+
 <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> a cidoc:E55_Type .
+
+<https://sk.acdh.oeaw.ac.at/types/title/main> a cidoc:E55_Type .
+
+<https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> a cidoc:E55_Type .
+
+<https://sk.acdh.oeaw.ac.at/types/idno/xml-id> a cidoc:E55_Type .
 

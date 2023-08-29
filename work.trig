@@ -9,12 +9,6 @@
 @prefix sk: <https://sk.acdh.oeaw.ac.at/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-sk:provenance {
-    lk: dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
-Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
-        dcterms:title "Legal Kraus"@de .
-}
-
 lk: {
     <https://sk.acdh.oeaw.ac.at/pmb29827/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of: Die Weber"@en ;
@@ -3911,7 +3905,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb53311orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: Pariser Leben"@en ;
-        cidoc:P14_carried_out_by sk:pmb38307 ;
+        cidoc:P14_carried_out_by sk:pmb9131 ;
         frbroo:R17_created sk:pmb53311orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb53315/identifier/idno/0> a cidoc:E42_Identifier ;
@@ -3933,7 +3927,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb53315orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: Shakespeare Sonnette"@en ;
-        cidoc:P14_carried_out_by sk:pmb2437 ;
+        cidoc:P14_carried_out_by sk:pmb2412 ;
         frbroo:R17_created sk:pmb53315orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb53326/identifier/idno/0> a cidoc:E42_Identifier ;
@@ -3955,7 +3949,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb53326orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: Shakespeares Sonette"@en ;
-        cidoc:P14_carried_out_by sk:pmb11988 ;
+        cidoc:P14_carried_out_by sk:pmb2412 ;
         frbroo:R17_created sk:pmb53326orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb53329/creation> a frbroo:F28_Expression_Creation ;
@@ -6169,7 +6163,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb55390orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: Madame l’archiduc"@en ;
-        cidoc:P14_carried_out_by sk:pmb11988 ;
+        cidoc:P14_carried_out_by sk:pmb9131 ;
         frbroo:R17_created sk:pmb55390orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb55407/creation> a frbroo:F28_Expression_Creation ;
@@ -7848,7 +7842,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb56707orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: La Périchole"@en ;
-        cidoc:P14_carried_out_by sk:pmb11988 ;
+        cidoc:P14_carried_out_by sk:pmb9131 ;
         frbroo:R17_created sk:pmb56707orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb56717/identifier/idno/0> a cidoc:E42_Identifier ;
@@ -8336,7 +8330,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb56987orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: Die Großherzogin von Gerolstein"@en ;
-        cidoc:P14_carried_out_by sk:pmb11988 ;
+        cidoc:P14_carried_out_by sk:pmb9131 ;
         frbroo:R17_created sk:pmb56987orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb56997/identifier/idno/0> a cidoc:E42_Identifier ;
@@ -11815,7 +11809,7 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb61580orig/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of original: Shakespeares Dramen"@en ;
-        cidoc:P14_carried_out_by sk:pmb11988 ;
+        cidoc:P14_carried_out_by sk:pmb2412 ;
         frbroo:R17_created sk:pmb61580orig .
 
     <https://sk.acdh.oeaw.ac.at/pmb61601/creation> a frbroo:F28_Expression_Creation ;
@@ -41724,5 +41718,11 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> a cidoc:E55_Type .
 
     <https://sk.acdh.oeaw.ac.at/types/idno/xml-id> a cidoc:E55_Type .
+}
+
+sk:provenance {
+    lk: dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
+Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
+        dcterms:title "Legal Kraus"@de .
 }
 

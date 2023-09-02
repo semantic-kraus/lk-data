@@ -9,12 +9,6 @@
 @prefix sk: <https://sk.acdh.oeaw.ac.at/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-sk:provenance {
-    lk: dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
-Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
-        dcterms:title "Legal Kraus"@de .
-}
-
 lk: {
     <https://sk.acdh.oeaw.ac.at/pmb29827/creation> a frbroo:F28_Expression_Creation ;
         rdfs:label "Creation of: Die Weber"@en ;
@@ -15800,10 +15794,6 @@ lk: {
         cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/sk_lk00472/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/sk_lk00472/published-expression> .
 
-    <https://sk.acdh.oeaw.ac.at/sk_lk00474/published-expression> a frbroo:F24_Publication_Expression ;
-        rdfs:label "Periodical: Literarische Rundschau (Beilage Berliner Tageblatt)"@en ;
-        cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00474/appellation/0> .
-
     <https://sk.acdh.oeaw.ac.at/sk_lk00476/publication> a frbroo:F30_Publication_Event ;
         rdfs:label "Publication: Berliner Börsen-Zeitung" ;
         cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/sk_lk00476/publication/time-span> ;
@@ -29547,6 +29537,12 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
         rdf:value "Berliner Tageblatt" .
 
+    <https://sk.acdh.oeaw.ac.at/pmb87762/appellation-title/0> a cidoc:E90_Symbolic_Object ;
+        rdfs:label "Appellation Part: Literarische Rundschau (Beilage Berliner Tageblatt)"@en ;
+        cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb87762/appellation/0> ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
+        rdf:value "Literarische Rundschau (Beilage Berliner Tageblatt)" .
+
     <https://sk.acdh.oeaw.ac.at/pmb87767/performance> a frbroo:F31_Performance ;
         rdfs:label "Performance / Recital of: Aetherwellen"@en ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
@@ -30300,12 +30296,6 @@ lk: {
         cidoc:P102i_is_title_of sk:sk_lk00472 ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
         rdf:value "Programmheft" .
-
-    <https://sk.acdh.oeaw.ac.at/sk_lk00474/appellation-title/0> a cidoc:E90_Symbolic_Object ;
-        rdfs:label "Appellation Part: Literarische Rundschau (Beilage Berliner Tageblatt)"@en ;
-        cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/sk_lk00474/appellation/0> ;
-        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
-        rdf:value "Literarische Rundschau (Beilage Berliner Tageblatt)" .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00475/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Programmheft"@en ;
@@ -34633,7 +34623,11 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb87753/appellation-title/0> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb87753/published-expression> .
 
+    <https://sk.acdh.oeaw.ac.at/pmb87762/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
+        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb87762/appellation-title/0> .
+
     <https://sk.acdh.oeaw.ac.at/pmb87762/published-expression> a frbroo:F24_Publication_Expression ;
+        rdfs:label "Periodical: Literarische Rundschau (Beilage Berliner Tageblatt)"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb87762/appellation/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb87834/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
@@ -34899,9 +34893,6 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/sk_lk00472/appellation-num/0>,
             <https://sk.acdh.oeaw.ac.at/sk_lk00472/appellation-title/0> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/sk_lk00472/published-expression> .
-
-    <https://sk.acdh.oeaw.ac.at/sk_lk00474/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
-        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00474/appellation-title/0> .
 
     <https://sk.acdh.oeaw.ac.at/sk_lk00475/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00475/appellation-title/0> .
@@ -41724,5 +41715,11 @@ lk: {
     <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> a cidoc:E55_Type .
 
     <https://sk.acdh.oeaw.ac.at/types/idno/xml-id> a cidoc:E55_Type .
+}
+
+sk:provenance {
+    lk: dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
+Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
+        dcterms:title "Legal Kraus"@de .
 }
 

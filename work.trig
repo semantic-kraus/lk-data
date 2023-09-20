@@ -855,15 +855,19 @@ lk: {
 
     <https://sk.acdh.oeaw.ac.at/pmb42987/identifier/idno/0> a cidoc:E42_Identifier ;
         rdfs:label "Identifier: pmb42987"@en ;
-        cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> ;
+        cidoc:P1i_identifies sk:pmb42987 ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/xml-id> ;
         rdf:value "pmb42987" .
 
     <https://sk.acdh.oeaw.ac.at/pmb42987/identifier/idno/1> a cidoc:E42_Identifier ;
         rdfs:label "Identifier: https://pmb.acdh.oeaw.ac.at/entity/42987"@en ;
-        cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> ;
+        cidoc:P1i_identifies sk:pmb42987 ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> ;
         rdf:value "https://pmb.acdh.oeaw.ac.at/entity/42987" .
+
+    <https://sk.acdh.oeaw.ac.at/pmb42987/publication> a frbroo:F30_Publication_Event ;
+        rdfs:label "Publication: Die Moderne" ;
+        frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb46493/identifier/idno/0> a cidoc:E42_Identifier ;
         rdfs:label "Identifier: pmb46493"@en ;
@@ -3454,7 +3458,7 @@ lk: {
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb53048/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53052/creation> a frbroo:F28_Expression_Creation ;
-        rdfs:label "Creation of: Berliner Tageblatt"@en ;
+        rdfs:label "Creation of: Zur Jessner-Hetze"@en ;
         cidoc:P14_carried_out_by sk:pmb11910 ;
         frbroo:R17_created sk:pmb53052 .
 
@@ -3470,10 +3474,10 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> ;
         rdf:value "https://pmb.acdh.oeaw.ac.at/entity/53052" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53052/publication> a frbroo:F30_Publication_Event ;
-        rdfs:label "Publication: Berliner Tageblatt" ;
-        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb53052/publication/time-span> ;
-        frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb53052/published-expression> .
+    <https://sk.acdh.oeaw.ac.at/pmb53052/segment> a ns1:INT16_Segment ;
+        rdfs:label "Segment: Zur Jessner-Hetze"@en ;
+        ns1:R16_incorporates sk:pmb53052 ;
+        ns1:R25_is_segment_of <https://sk.acdh.oeaw.ac.at/sk_lk00504/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53058/identifier/idno/0> a cidoc:E42_Identifier ;
         rdfs:label "Identifier: pmb53058"@en ;
@@ -11699,7 +11703,7 @@ lk: {
         rdf:value "https://pmb.acdh.oeaw.ac.at/entity/61389" .
 
     <https://sk.acdh.oeaw.ac.at/pmb61389/segment> a ns1:INT16_Segment ;
-        rdfs:label "Segment: Der „Fackel-Kraus “ hat ausgefackelt"@en ;
+        rdfs:label "Segment: Der „Fackel-Kraus“ hat ausgefackelt"@en ;
         schema:pagination "S. 2" ;
         ns1:R16_incorporates sk:pmb61389 ;
         ns1:R25_is_segment_of <https://sk.acdh.oeaw.ac.at/pmb61385/published-expression> .
@@ -12564,7 +12568,7 @@ lk: {
         rdf:value "https://pmb.acdh.oeaw.ac.at/entity/62204" .
 
     <https://sk.acdh.oeaw.ac.at/pmb62204/segment> a ns1:INT16_Segment ;
-        rdfs:label "Segment: EIn Kreislauf"@en ;
+        rdfs:label "Segment: Ein Kreislauf"@en ;
         schema:pagination "S. 3" ;
         ns1:R16_incorporates sk:pmb62204 ;
         ns1:R25_is_segment_of <https://sk.acdh.oeaw.ac.at/pmb62205/published-expression> .
@@ -15940,6 +15944,11 @@ lk: {
         cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/sk_lk00503/publication/time-span> ;
         frbroo:R24_created <https://sk.acdh.oeaw.ac.at/sk_lk00503/published-expression> .
 
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/publication> a frbroo:F30_Publication_Event ;
+        rdfs:label "Publication: Berliner Tageblatt" ;
+        cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/sk_lk00504/publication/time-span> ;
+        frbroo:R24_created <https://sk.acdh.oeaw.ac.at/sk_lk00504/published-expression> .
+
     <https://sk.acdh.oeaw.ac.at/pmb29827/appellation-title/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: Die Weber"@en ;
         cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb29827/appellation/0> ;
@@ -16566,6 +16575,12 @@ lk: {
         rdfs:label "Appellation Part: Die Moderne"@en ;
         cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb42987/appellation/0> ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
+        rdf:value "Die Moderne" .
+
+    <https://sk.acdh.oeaw.ac.at/pmb42987/title/0> a cidoc:E35_Title ;
+        rdfs:label "Title: Die Moderne"@en ;
+        cidoc:P102i_is_title_of sk:pmb42987 ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
         rdf:value "Die Moderne" .
 
     <https://sk.acdh.oeaw.ac.at/pmb46493/appellation-title/0> a cidoc:E90_Symbolic_Object ;
@@ -18937,37 +18952,11 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
         rdf:value "Berliner Tageblatt" .
 
-    <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-date/0> a cidoc:E90_Symbolic_Object ;
-        rdfs:label "Appellation Part: 21.12.1926"@en ;
-        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
-        rdf:value "21.12.1926" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-ed/0> a cidoc:E90_Symbolic_Object ;
-        rdfs:label "Appellation Part: Morgenausgabe"@en ;
-        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/ed> ;
-        rdf:value "Morgenausgabe" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-num/0> a cidoc:E90_Symbolic_Object ;
-        rdfs:label "Appellation Part: Nr. 600"@en ;
-        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
-        rdf:value "Nr. 600" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-title/0> a cidoc:E90_Symbolic_Object ;
-        rdfs:label "Appellation Part: Berliner Tageblatt"@en ;
-        cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb53052/appellation/0> ;
-        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
-        rdf:value "Berliner Tageblatt" .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53052/publication/time-span> a cidoc:E52_Time-Span ;
-        rdfs:label "1926-12-21"^^xsd:string ;
-        cidoc:P82a_begin_of_the_begin "1926-12-21"^^xsd:date ;
-        cidoc:P82b_end_of_the_end "1926-12-21"^^xsd:date .
-
     <https://sk.acdh.oeaw.ac.at/pmb53052/title/0> a cidoc:E35_Title ;
-        rdfs:label "Title: Berliner Tageblatt"@en ;
+        rdfs:label "Title: Zur Jessner-Hetze"@en ;
         cidoc:P102i_is_title_of sk:pmb53052 ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
-        rdf:value "Berliner Tageblatt" .
+        rdf:value "Zur Jessner-Hetze" .
 
     <https://sk.acdh.oeaw.ac.at/pmb53058/appellation-date/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: 8.5.1928"@en ;
@@ -26244,10 +26233,10 @@ lk: {
         rdf:value "Wiener Mittagsblatt" .
 
     <https://sk.acdh.oeaw.ac.at/pmb61389/title/0> a cidoc:E35_Title ;
-        rdfs:label "Title: Der „Fackel-Kraus “ hat ausgefackelt"@en ;
+        rdfs:label "Title: Der „Fackel-Kraus“ hat ausgefackelt"@en ;
         cidoc:P102i_is_title_of sk:pmb61389 ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
-        rdf:value "Der „Fackel-Kraus “ hat ausgefackelt" .
+        rdf:value "Der „Fackel-Kraus“ hat ausgefackelt" .
 
     <https://sk.acdh.oeaw.ac.at/pmb61446/title/0> a cidoc:E35_Title ;
         rdfs:label "Title: [Bericht über Prozess Kraus – Arbeiter-Zeitung]"@en ;
@@ -26776,10 +26765,10 @@ lk: {
         rdf:value "Vert-Vert" .
 
     <https://sk.acdh.oeaw.ac.at/pmb62204/title/0> a cidoc:E35_Title ;
-        rdfs:label "Title: EIn Kreislauf"@en ;
+        rdfs:label "Title: Ein Kreislauf"@en ;
         cidoc:P102i_is_title_of sk:pmb62204 ;
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
-        rdf:value "EIn Kreislauf" .
+        rdf:value "Ein Kreislauf" .
 
     <https://sk.acdh.oeaw.ac.at/pmb62205/appellation-date/0> a cidoc:E90_Symbolic_Object ;
         rdfs:label "Appellation Part: 19.11.1922"@en ;
@@ -31106,6 +31095,49 @@ lk: {
         cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
         rdf:value "Der Tag" .
 
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-date/0> a cidoc:E90_Symbolic_Object ;
+        rdfs:label "Appellation Part: 21.12.1926"@en ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/date> ;
+        rdf:value "21.12.1926" .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-ed/0> a cidoc:E90_Symbolic_Object ;
+        rdfs:label "Appellation Part: Morgenausgabe"@en ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/ed> ;
+        rdf:value "Morgenausgabe" .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-num/0> a cidoc:E90_Symbolic_Object ;
+        rdfs:label "Appellation Part: Nr. 600"@en ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/num/issue> ;
+        rdf:value "Nr. 600" .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-title/0> a cidoc:E90_Symbolic_Object ;
+        rdfs:label "Appellation Part: Berliner Tageblatt"@en ;
+        cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation/0> ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
+        rdf:value "Berliner Tageblatt" .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/publication/time-span> a cidoc:E52_Time-Span ;
+        rdfs:label "1926-12-21"^^xsd:string ;
+        cidoc:P82a_begin_of_the_begin "1926-12-21"^^xsd:date ;
+        cidoc:P82b_end_of_the_end "1926-12-21"^^xsd:date .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/title/0> a cidoc:E35_Title ;
+        rdfs:label "Title: Berliner Tageblatt"@en ;
+        cidoc:P102i_is_title_of sk:sk_lk00504 ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
+        rdf:value "Berliner Tageblatt" .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00505/appellation-title/0> a cidoc:E90_Symbolic_Object ;
+        rdfs:label "Appellation Part: Die Moderne"@en ;
+        cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/sk_lk00505/appellation/0> ;
+        cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
+        rdf:value "Die Moderne" .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00505/published-expression> a frbroo:F24_Publication_Expression ;
+        rdfs:label "Die Moderne"@en ;
+        cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00505/appellation/0> ;
+        frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> .
+
     <https://sk.acdh.oeaw.ac.at/pmb29827/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Die Weber"@en ;
         cidoc:P165_incorporates sk:pmb29827 ;
@@ -31315,11 +31347,9 @@ lk: {
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42850/appellation-title/0> .
 
     <https://sk.acdh.oeaw.ac.at/pmb42987/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
-        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42987/appellation-title/0> .
-
-    <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> a frbroo:F24_Publication_Expression ;
-        rdfs:label "Die Moderne"@en ;
-        cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb42987/appellation/0> .
+        rdfs:label "Appellation for: Die Moderne"@en ;
+        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42987/appellation-title/0> ;
+        cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb46493/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb46493/appellation-title/0> .
@@ -31921,14 +31951,6 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb53048/appellation-ed/0>,
             <https://sk.acdh.oeaw.ac.at/pmb53048/appellation-title/0> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb53048/published-expression> .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53052/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
-        rdfs:label "Appellation for: Berliner Tageblatt"@en ;
-        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-date/0>,
-            <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-ed/0>,
-            <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-num/0>,
-            <https://sk.acdh.oeaw.ac.at/pmb53052/appellation-title/0> ;
-        cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb53052/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53058/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         rdfs:label "Appellation for: Arbeiter-Zeitung"@en ;
@@ -35256,6 +35278,22 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/sk_lk00503/appellation-title/0> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/sk_lk00503/published-expression> .
 
+    sk:sk_lk00504 a frbroo:F22_Self-Contained_Expression ;
+        rdfs:label "Berliner Tageblatt"@en ;
+        cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/sk_lk00504/title/0> ;
+        cidoc:P165_incorporates sk:pmb53052 .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
+        rdfs:label "Appellation for: Berliner Tageblatt"@en ;
+        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-date/0>,
+            <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-ed/0>,
+            <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-num/0>,
+            <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation-title/0> ;
+        cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/sk_lk00504/published-expression> .
+
+    <https://sk.acdh.oeaw.ac.at/sk_lk00505/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
+        cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/sk_lk00505/appellation-title/0> .
+
     <https://sk.acdh.oeaw.ac.at/pmb29827/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
         rdfs:label "Appellation for: Die Weber"@en ;
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb29827/appellation-title/0>,
@@ -35302,6 +35340,12 @@ lk: {
         cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb42416/appellation-title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb42416/appellation-title/1> ;
         cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb42416/published-expression> .
+
+    <https://sk.acdh.oeaw.ac.at/pmb42987/published-expression> a frbroo:F24_Publication_Expression ;
+        rdfs:label "Die Moderne"@en ;
+        cidoc:P165_incorporates sk:pmb42987 ;
+        cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb42987/appellation/0> ;
+        frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/sk_lk00505/published-expression> .
 
     sk:pmb50442 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Zwei geschlossene Vorstellungen an der Neuen Wiener Bühne"@en ;
@@ -35561,12 +35605,6 @@ lk: {
         rdfs:label "Berliner Tageblatt"@en ;
         cidoc:P165_incorporates sk:pmb53048 ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53048/appellation/0> ;
-        frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb41531/published-expression> .
-
-    <https://sk.acdh.oeaw.ac.at/pmb53052/published-expression> a frbroo:F24_Publication_Expression ;
-        rdfs:label "Berliner Tageblatt"@en ;
-        cidoc:P165_incorporates sk:pmb53052 ;
-        cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb53052/appellation/0> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb41531/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb53058/published-expression> a frbroo:F24_Publication_Expression ;
@@ -36757,6 +36795,10 @@ lk: {
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41289/appellation/0> ;
         frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53046/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb65259/published-expression> .
+
+    sk:pmb42987 a frbroo:F22_Self-Contained_Expression ;
+        rdfs:label "Die Moderne"@en ;
+        cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb42987/title/0> .
 
     sk:pmb50443 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Neues 8 Uhr-Blatt"@en ;
@@ -39781,6 +39823,12 @@ lk: {
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00503/appellation/0> ;
         frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb41560/published-expression> .
 
+    <https://sk.acdh.oeaw.ac.at/sk_lk00504/published-expression> a frbroo:F24_Publication_Expression ;
+        rdfs:label "Berliner Tageblatt"@en ;
+        cidoc:P165_incorporates sk:sk_lk00504 ;
+        cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/sk_lk00504/appellation/0> ;
+        frbroo:R5i_is_component_of <https://sk.acdh.oeaw.ac.at/pmb41531/published-expression> .
+
     sk:pmb29829 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Das Tschaperl"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb29829/title/0> .
@@ -40044,10 +40092,6 @@ lk: {
     sk:pmb53043 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Das Traumstück und die Frontsoldaten"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53043/title/0> .
-
-    sk:pmb53052 a frbroo:F22_Self-Contained_Expression ;
-        rdfs:label "Berliner Tageblatt"@en ;
-        cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53052/title/0> .
 
     sk:pmb53063 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Leipziger Kommentar"@en ;
@@ -40691,7 +40735,7 @@ lk: {
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb61264/title/0> .
 
     sk:pmb61389 a frbroo:F22_Self-Contained_Expression ;
-        rdfs:label "Der „Fackel-Kraus “ hat ausgefackelt"@en ;
+        rdfs:label "Der „Fackel-Kraus“ hat ausgefackelt"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb61389/title/0> .
 
     sk:pmb61556 a frbroo:F22_Self-Contained_Expression ;
@@ -40767,7 +40811,7 @@ lk: {
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb62199/title/0> .
 
     sk:pmb62204 a frbroo:F22_Self-Contained_Expression ;
-        rdfs:label "EIn Kreislauf"@en ;
+        rdfs:label "Ein Kreislauf"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb62204/title/0> .
 
     sk:pmb62237 a frbroo:F22_Self-Contained_Expression ;
@@ -41061,6 +41105,10 @@ lk: {
         rdfs:label "Das Spitzentuch der Königin"@en ;
         cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb52904/title/0>,
             <https://sk.acdh.oeaw.ac.at/pmb52904/title/1> .
+
+    sk:pmb53052 a frbroo:F22_Self-Contained_Expression ;
+        rdfs:label "Zur Jessner-Hetze"@en ;
+        cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb53052/title/0> .
 
     sk:pmb53193 a frbroo:F22_Self-Contained_Expression ;
         rdfs:label "Aus dem Kriegsbuch eines Hirnwesen"@en ;
@@ -41515,7 +41563,6 @@ lk: {
         rdfs:label "Berliner Tageblatt"@en ;
         cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb41531/appellation/0> ;
         frbroo:R5_has_component <https://sk.acdh.oeaw.ac.at/pmb53048/published-expression>,
-            <https://sk.acdh.oeaw.ac.at/pmb53052/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53416/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb53418/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb54823/published-expression>,
@@ -41531,7 +41578,8 @@ lk: {
             <https://sk.acdh.oeaw.ac.at/pmb65442/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb65444/published-expression>,
             <https://sk.acdh.oeaw.ac.at/pmb87753/published-expression>,
-            <https://sk.acdh.oeaw.ac.at/sk_lk00489/published-expression> .
+            <https://sk.acdh.oeaw.ac.at/sk_lk00489/published-expression>,
+            <https://sk.acdh.oeaw.ac.at/sk_lk00504/published-expression> .
 
     <https://sk.acdh.oeaw.ac.at/pmb41560/published-expression> a frbroo:F24_Publication_Expression ;
         rdfs:label "Der Tag"@en ;

@@ -16002,7 +16002,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Die Fledermaus"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb30421/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb30421 .
+    frbroo:R66_included_performed_version_of sk:pmb30421 .
 
 <https://sk.acdh.oeaw.ac.at/pmb30421/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1874"^^xsd:string ;
@@ -16060,7 +16060,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Die Verschwörung des Fiesko zu Genua"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb31181/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb31181 .
+    frbroo:R66_included_performed_version_of sk:pmb31181 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31181/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1783"^^xsd:string ;
@@ -16107,7 +16107,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Hanneles Himmelfahrt"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb31511/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb31511 .
+    frbroo:R66_included_performed_version_of sk:pmb31511 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31511/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1893-11-14"^^xsd:string ;
@@ -16137,7 +16137,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: König Lear"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb31623/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb31623 .
+    frbroo:R66_included_performed_version_of sk:pmb31623 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31623/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1606-01-01"^^xsd:string ;
@@ -16155,7 +16155,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Othello"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb31671/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb31671 .
+    frbroo:R66_included_performed_version_of sk:pmb31671 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31671/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1604"^^xsd:string ;
@@ -16173,7 +16173,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Die Journalisten"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb31729/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb31729 .
+    frbroo:R66_included_performed_version_of sk:pmb31729 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31729/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1852"^^xsd:string ;
@@ -16197,7 +16197,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Minna von Barnhelm oder das Soldatenglück"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb31929/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb31929 .
+    frbroo:R66_included_performed_version_of sk:pmb31929 .
 
 <https://sk.acdh.oeaw.ac.at/pmb31929/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1767"^^xsd:string ;
@@ -16215,7 +16215,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Der Querulant"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb32043/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb32043 .
+    frbroo:R66_included_performed_version_of sk:pmb32043 .
 
 <https://sk.acdh.oeaw.ac.at/pmb32043/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1914"^^xsd:string ;
@@ -16279,7 +16279,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Der böse Geist Lumpazivagabundus oder Das liederliche Kleeblatt"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb32850/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb32850 .
+    frbroo:R66_included_performed_version_of sk:pmb32850 .
 
 <https://sk.acdh.oeaw.ac.at/pmb32850/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1833"^^xsd:string ;
@@ -17458,7 +17458,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Der Affe Zarathustras"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb51907/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb51907 .
+    frbroo:R66_included_performed_version_of sk:pmb51907 .
 
 <https://sk.acdh.oeaw.ac.at/pmb51907/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1925"^^xsd:string ;
@@ -18607,7 +18607,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Der Zigeunerbaron"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb52902/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb52902 .
+    frbroo:R66_included_performed_version_of sk:pmb52902 .
 
 <https://sk.acdh.oeaw.ac.at/pmb52902/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1885"^^xsd:string ;
@@ -18625,7 +18625,7 @@ Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Gr
     rdfs:label "Performance / Recital of: Das Spitzentuch der Königin"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb52904/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb52904 .
+    frbroo:R66_included_performed_version_of sk:pmb52904 .
 
 <https://sk.acdh.oeaw.ac.at/pmb52904/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1880"^^xsd:string ;
@@ -20148,7 +20148,7 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Die Briganten"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb53658/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb53658 .
+    frbroo:R66_included_performed_version_of sk:pmb53658 .
 
 <https://sk.acdh.oeaw.ac.at/pmb53658/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1869"^^xsd:string ;
@@ -20349,7 +20349,7 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Die Dreigroschenoper"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb53718/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb53718 .
+    frbroo:R66_included_performed_version_of sk:pmb53718 .
 
 <https://sk.acdh.oeaw.ac.at/pmb53718/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1928-08-31"^^xsd:string ;
@@ -20688,7 +20688,7 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Eine Wohnung ist zu vermiethen in der Stadt"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb53926/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb53926 .
+    frbroo:R66_included_performed_version_of sk:pmb53926 .
 
 <https://sk.acdh.oeaw.ac.at/pmb53926/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1837-07"^^xsd:string ;
@@ -20913,7 +20913,7 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Blaubart"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb54326/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb54326 .
+    frbroo:R66_included_performed_version_of sk:pmb54326 .
 
 <https://sk.acdh.oeaw.ac.at/pmb54326/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1866-02-05"^^xsd:string ;
@@ -21191,7 +21191,7 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Wirtschaft und Öffentliche Sicherheit"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb55033/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb55033 .
+    frbroo:R66_included_performed_version_of sk:pmb55033 .
 
 <https://sk.acdh.oeaw.ac.at/pmb55033/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1928-02"^^xsd:string ;
@@ -21505,7 +21505,7 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Madame Favart"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb55407/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb55407 .
+    frbroo:R66_included_performed_version_of sk:pmb55407 .
 
 <https://sk.acdh.oeaw.ac.at/pmb55407/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1878-12-28"^^xsd:string ;
@@ -21678,7 +21678,7 @@ sk:pmb55390orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Das Land ohne Frauen"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb55661/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb55661 .
+    frbroo:R66_included_performed_version_of sk:pmb55661 .
 
 <https://sk.acdh.oeaw.ac.at/pmb55661/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1929"^^xsd:string ;
@@ -23164,7 +23164,7 @@ sk:pmb56707orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Die Seufzerbrücke"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb56823/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb56823 .
+    frbroo:R66_included_performed_version_of sk:pmb56823 .
 
 <https://sk.acdh.oeaw.ac.at/pmb56823/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1861"^^xsd:string ;
@@ -24521,7 +24521,7 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Fortunios Lied"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb57726/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb57726 .
+    frbroo:R66_included_performed_version_of sk:pmb57726 .
 
 <https://sk.acdh.oeaw.ac.at/pmb57726/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1861"^^xsd:string ;
@@ -24539,7 +24539,7 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Die Insel Tulipatan"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb57728/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb57728 .
+    frbroo:R66_included_performed_version_of sk:pmb57728 .
 
 <https://sk.acdh.oeaw.ac.at/pmb57728/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1868"^^xsd:string ;
@@ -25829,7 +25829,7 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: The Merry Widow"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb60417/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb60417 .
+    frbroo:R66_included_performed_version_of sk:pmb60417 .
 
 <https://sk.acdh.oeaw.ac.at/pmb60417/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1925"^^xsd:string ;
@@ -25928,7 +25928,7 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Die Reise zum Mond"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb60654/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb60654 .
+    frbroo:R66_included_performed_version_of sk:pmb60654 .
 
 <https://sk.acdh.oeaw.ac.at/pmb60654/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1875"^^xsd:string ;
@@ -25946,7 +25946,7 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Prinzessin von Trapezunt"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb60656/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb60656 .
+    frbroo:R66_included_performed_version_of sk:pmb60656 .
 
 <https://sk.acdh.oeaw.ac.at/pmb60656/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1869"^^xsd:string ;
@@ -26273,7 +26273,7 @@ sk:pmb56987orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Emilia Galotti"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb61461/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb61461 .
+    frbroo:R66_included_performed_version_of sk:pmb61461 .
 
 <https://sk.acdh.oeaw.ac.at/pmb61461/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1772"^^xsd:string ;
@@ -26747,7 +26747,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Vert-Vert"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb62199/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb62199 .
+    frbroo:R66_included_performed_version_of sk:pmb62199 .
 
 <https://sk.acdh.oeaw.ac.at/pmb62199/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1869"^^xsd:string ;
@@ -28022,7 +28022,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Die neue Stadt"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb63838/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb63838 .
+    frbroo:R66_included_performed_version_of sk:pmb63838 .
 
 <https://sk.acdh.oeaw.ac.at/pmb63838/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1926"^^xsd:string ;
@@ -28161,7 +28161,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Simon Boccanegra"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb63885/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb63885 .
+    frbroo:R66_included_performed_version_of sk:pmb63885 .
 
 <https://sk.acdh.oeaw.ac.at/pmb63885/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1857"^^xsd:string ;
@@ -29540,7 +29540,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Aetherwellen"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb87767/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb87767 .
+    frbroo:R66_included_performed_version_of sk:pmb87767 .
 
 <https://sk.acdh.oeaw.ac.at/pmb87767/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1928"^^xsd:string ;
@@ -29703,7 +29703,7 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Performance / Recital of: Mad Love"@en ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/event/first> ;
     cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb88255/performance/time-span> ;
-    frbroo:R66_included_performance_version_of sk:pmb88255 .
+    frbroo:R66_included_performed_version_of sk:pmb88255 .
 
 <https://sk.acdh.oeaw.ac.at/pmb88255/performance/time-span> a cidoc:E52_Time-Span ;
     rdfs:label "1935"^^xsd:string ;

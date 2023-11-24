@@ -15717,7 +15717,8 @@
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> ;
     rdf:value "https://pmb.acdh.oeaw.ac.at/entity/88316" .
 
-lk: rdfs:label "Legal Kraus Project" ;
+lk: a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
+    rdfs:label "Legal Kraus Project" ;
     dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
 Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
     dcterms:title "Legal Kraus"@de .

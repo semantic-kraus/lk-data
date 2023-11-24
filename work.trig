@@ -51226,7 +51226,8 @@ ns2:legal-kraus {
 }
 
 sk:provenance {
-    ns2:legal-kraus rdfs:label "Legal Kraus Project" ;
+    ns2:legal-kraus a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
+        rdfs:label "Legal Kraus Project" ;
         dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
 Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
         dcterms:title "Legal Kraus"@de .

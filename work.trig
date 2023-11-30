@@ -1,6 +1,7 @@
 @prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix frbroo: <https://cidoc-crm.org/frbroo/sites/default/files/FRBR2.4-draft.rdfs#> .
+@prefix lk: <https://sk.acdh.oeaw.ac.at/project/legal-kraus> .
 @prefix ns1: <https://w3id.org/lso/intro/beta202304#> .
 @prefix ns2: <https://sk.acdh.oeaw.ac.at/project/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -8,6 +9,14 @@
 @prefix schema: <https://schema.org/> .
 @prefix sk: <https://sk.acdh.oeaw.ac.at/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+sk:provenance {
+    ns2:legal-kraus a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
+        rdfs:label "Legal Kraus Project" ;
+        dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
+Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
+        dcterms:title "Legal Kraus"@de .
+}
 
 ns2:legal-kraus {
     sk:pmb10117 cidoc:P14i_performed <https://sk.acdh.oeaw.ac.at/pmb60417/creation> .
@@ -51223,13 +51232,5 @@ ns2:legal-kraus {
             <https://sk.acdh.oeaw.ac.at/pmb88214/identifier/idno/0>,
             <https://sk.acdh.oeaw.ac.at/pmb88255/identifier/idno/0>,
             <https://sk.acdh.oeaw.ac.at/pmb88316/identifier/idno/0> .
-}
-
-sk:provenance {
-    ns2:legal-kraus a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
-        rdfs:label "Legal Kraus Project" ;
-        dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
-Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
-        dcterms:title "Legal Kraus"@de .
 }
 

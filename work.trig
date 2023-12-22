@@ -12,10 +12,11 @@
 
 sk:provenance {
     ns2:legal-kraus a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
-        rdfs:label "Legal Kraus Project" ;
-        dcterms:bibliographicCitation """Karl Kraus: Rechtsakten der Kanzlei Oskar Samek.
-Wissenschaftliche Edition, hg. v. Johannes Knüchel und Isabel Langkabel, auf Grundlage der Vorarbeiten Katharina Pragers, unter Mitarbeit von Laura Untner, Andrea Ortner, Ingo Börner und Vanessa Hannesschläger (Wien 2022)""" ;
-        dcterms:title "Legal Kraus"@de .
+        rdfs:label "Legal Kraus Project"@en ;
+        dcterms:bibliographicCitation "Rechtsakten Karl Kraus. Rechtsakten der Kanzlei Oskar Samek. Scolarly Edition. Ed. by Johannes Knüchel and Isabel Langkabel on the basis of the preliminary work by Katharina Pragers, in collaboration with Laura Untner, Andrea Ortner, Ingo Börner, and Vanessa Hannesschläger. 2022." ;
+        dcterms:source "https://kraus.wienbibliothek.at/" ;
+        dcterms:title "Legal Kraus"@de ;
+        rdfs:comment "'Rechtsakten Karl Kraus' consists of TEI-XML transcripts of more than 4,000 legal files with references to index files containing – among other things – 1,100 bibliographical and 1,700 biographical entities." .
 }
 
 ns2:legal-kraus {

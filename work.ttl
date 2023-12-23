@@ -15720,8 +15720,9 @@
 lk: a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
     rdfs:label "Legal Kraus Project"@en ;
     dcterms:bibliographicCitation "Rechtsakten Karl Kraus. Rechtsakten der Kanzlei Oskar Samek. Scolarly Edition. Ed. by Johannes Knüchel and Isabel Langkabel on the basis of the preliminary work by Katharina Pragers, in collaboration with Laura Untner, Andrea Ortner, Ingo Börner, and Vanessa Hannesschläger. 2022." ;
-    dcterms:source "https://kraus.wienbibliothek.at/" ;
-    dcterms:title "Legal Kraus"@de ;
+    dcterms:source "https://arche.acdh.oeaw.ac.at/browser/oeaw_detail/188397",
+        "https://kraus.wienbibliothek.at/" ;
+    dcterms:title "Karl Kraus Rechtsakten"@de ;
     rdfs:comment "'Rechtsakten Karl Kraus' consists of TEI-XML transcripts of more than 4,000 legal files with references to index files containing – among other things – 1,100 bibliographical and 1,700 biographical entities." .
 
 <https://sk.acdh.oeaw.ac.at/sk_lk00133/publication> a frbroo:F30_Publication_Event ;

@@ -13,11 +13,11 @@
 sk:provenance {
     ns2:legal-kraus a <http://www.w3.org/ns/sparql-service-description#NamedGraph> ;
         rdfs:label "Legal Kraus Project"@en ;
-        dcterms:bibliographicCitation "Rechtsakten Karl Kraus. Rechtsakten der Kanzlei Oskar Samek. Scolarly Edition. Ed. by Johannes Knüchel and Isabel Langkabel on the basis of the preliminary work by Katharina Prager, in collaboration with Laura Untner, Andrea Ortner, Ingo Börner, and Vanessa Hannesschläger. 2022." ;
+        dcterms:bibliographicCitation "Rechtsakten Karl Kraus. Rechtsakten der Kanzlei Oskar Samek. Scholarly Edition. Ed. by Johannes Knüchel and Isabel Langkabel on the basis of the preliminary work by Katharina Prager, in collaboration with Laura Untner, Andrea Ortner, Ingo Börner, and Vanessa Hannesschläger. 2022." ;
         dcterms:source "https://arche.acdh.oeaw.ac.at/browser/oeaw_detail/188397",
             "https://kraus.wienbibliothek.at/" ;
         dcterms:title "Karl Kraus Rechtsakten"@de ;
-        rdfs:comment "'Rechtsakten Karl Kraus' consists of TEI-XML transcripts of more than 4,000 legal files with references to index files containing – among other things – 1,100 bibliographical and 1,700 biographical entities. In the course of the project, mentions of and quotes from textual entities listed in listwork.xml and listfackel.xml as well as notes indicating passages later on used in 'Die Fackel' an references between the legal files themselves were transformed into intertextual relations, references to listperson.xml into person mentions. (The documents' references to laws have not yet been taken into account.)" .
+        rdfs:comment "'Rechtsakten Karl Kraus' consists of TEI-XML transcripts of more than 4,000 legal files with references to index files containing – among other things – 1,100 bibliographical and 1,700 biographical entities. For the creation of the person index the PMB data base (pmb.acdh.oeaw.ac.at) was used. In the course of the SemanticKraus project, mentions of and quotes from textual entities listed in listwork.xml and listfackel.xml as well as notes indicating passages later on used in 'Die Fackel' an references between the legal files themselves were transformed into intertextual relations, references to listperson.xml into person mentions. (The documents' references to laws have not yet been taken into account.)" .
 }
 
 ns2:legal-kraus {

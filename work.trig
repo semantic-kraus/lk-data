@@ -1,8 +1,8 @@
 @prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix frbroo: <https://cidoc-crm.org/frbroo/sites/default/files/FRBR2.4-draft.rdfs#> .
+@prefix lk: <https://sk.acdh.oeaw.ac.at/project/legal-kraus> .
 @prefix ns1: <https://w3id.org/lso/intro/beta202304#> .
-@prefix ns2: <https://sk.acdh.oeaw.ac.at/project/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -10,7 +10,7 @@
 @prefix sk: <https://sk.acdh.oeaw.ac.at/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns2:legal-kraus {
+lk: {
     sk:pmb10117 cidoc:P14i_performed <https://sk.acdh.oeaw.ac.at/pmb60417/creation> .
 
     sk:pmb10472 cidoc:P14i_performed <https://sk.acdh.oeaw.ac.at/pmb53718/creation> .
@@ -51227,7 +51227,7 @@ ns2:legal-kraus {
 }
 
 sk:provenance {
-    ns2:legal-kraus a sd:NamedGraph ;
+    lk: a sd:NamedGraph ;
         rdfs:label "Legal Kraus Project"@en ;
         dcterms:bibliographicCitation "Rechtsakten Karl Kraus. Rechtsakten der Kanzlei Oskar Samek. Scholarly Edition. Ed. by Johannes Knüchel and Isabel Langkabel on the basis of the preliminary work by Katharina Prager, in collaboration with Laura Untner, Andrea Ortner, Ingo Börner, and Vanessa Hannesschläger. 2022." ;
         dcterms:source "https://arche.acdh.oeaw.ac.at/browser/oeaw_detail/188397",

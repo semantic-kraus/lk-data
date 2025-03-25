@@ -144,11 +144,6 @@
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/idno/URL/pmb> ;
     rdf:value "https://pmb.acdh.oeaw.ac.at/entity/30867" .
 
-<https://sk.acdh.oeaw.ac.at/pmb30867/publication> a frbroo:F30_Publication_Event ;
-    rdfs:label "Publication of: Henry IV, Part 1" ;
-    cidoc:P4_has_time-span <https://sk.acdh.oeaw.ac.at/pmb30867/publication/time-span> ;
-    frbroo:R24_created <https://sk.acdh.oeaw.ac.at/pmb30867/published-expression> .
-
 <https://sk.acdh.oeaw.ac.at/pmb31181/creation> a frbroo:F28_Expression_Creation ;
     rdfs:label "Creation of: Die Verschwörung des Fiesko zu Genua"@en ;
     cidoc:P14_carried_out_by sk:pmb12654 ;
@@ -16044,17 +16039,6 @@ lk: a sd:NamedGraph ;
     cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/title/main> ;
     rdf:value "Also sprach Zarathustra" .
 
-<https://sk.acdh.oeaw.ac.at/pmb30867/appellation-title/0> a cidoc:E90_Symbolic_Object ;
-    rdfs:label "Appellation Part: Henry IV, Part 1"@en ;
-    cidoc:P106i_forms_part_of <https://sk.acdh.oeaw.ac.at/pmb30867/appellation/0> ;
-    cidoc:P2_has_type <https://sk.acdh.oeaw.ac.at/types/appellation/title/main> ;
-    rdf:value "Henry IV, Part 1" .
-
-<https://sk.acdh.oeaw.ac.at/pmb30867/publication/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "1597"^^xsd:string ;
-    cidoc:P82a_begin_of_the_begin "1597"^^xsd:gYear ;
-    cidoc:P82b_end_of_the_end "1597"^^xsd:gYear .
-
 <https://sk.acdh.oeaw.ac.at/pmb30867/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Henry IV, Part 1"@en ;
     cidoc:P102i_is_title_of sk:pmb30867 ;
@@ -21121,9 +21105,9 @@ sk:pmb53326orig a frbroo:F22_Self-Contained_Expression ;
     rdf:value "Geschenke des Lebens" .
 
 <https://sk.acdh.oeaw.ac.at/pmb54829/publication/time-span> a cidoc:E52_Time-Span ;
-    rdfs:label "0101-01"^^xsd:string ;
-    cidoc:P82a_begin_of_the_begin "0101-01"^^xsd:gYearMonth ;
-    cidoc:P82b_end_of_the_end "0101-01"^^xsd:gYearMonth .
+    rdfs:label "1931-01-01"^^xsd:string ;
+    cidoc:P82a_begin_of_the_begin "1931-01-01"^^xsd:date ;
+    cidoc:P82b_end_of_the_end "1931-01-01"^^xsd:date .
 
 <https://sk.acdh.oeaw.ac.at/pmb54829/title/0> a cidoc:E35_Title ;
     rdfs:label "Title: Geschenke des Lebens"@en ;
@@ -31165,16 +31149,6 @@ sk:pmb61580orig a frbroo:F22_Self-Contained_Expression ;
     cidoc:P165_incorporates sk:pmb30611 ;
     cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb30611/appellation/0> .
 
-<https://sk.acdh.oeaw.ac.at/pmb30867/appellation/0> a cidoc:E33_E41_Linguistic_Appellation ;
-    rdfs:label "Appellation for: Henry IV, Part 1"@en ;
-    cidoc:P106_is_composed_of <https://sk.acdh.oeaw.ac.at/pmb30867/appellation-title/0> ;
-    cidoc:P1i_identifies <https://sk.acdh.oeaw.ac.at/pmb30867/published-expression> .
-
-<https://sk.acdh.oeaw.ac.at/pmb30867/published-expression> a frbroo:F24_Publication_Expression ;
-    rdfs:label "Henry IV, Part 1 (Publication)"@en ;
-    cidoc:P165_incorporates sk:pmb30867 ;
-    cidoc:P1_is_identified_by <https://sk.acdh.oeaw.ac.at/pmb30867/appellation/0> .
-
 <https://sk.acdh.oeaw.ac.at/pmb31393/published-expression> a frbroo:F24_Publication_Expression ;
     rdfs:label "Die Büchse der Pandora (Publication)"@en ;
     cidoc:P165_incorporates sk:pmb31393 ;
@@ -36768,6 +36742,10 @@ sk:pmb30595 a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Maß für Maß"@und ;
     cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb30595/title/0> .
 
+sk:pmb30867 a frbroo:F22_Self-Contained_Expression ;
+    rdfs:label "Henry IV, Part 1"@und ;
+    cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb30867/title/0> .
+
 sk:pmb31571 a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Zahme Xenien"@und ;
     cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb31571/title/0> .
@@ -39842,10 +39820,6 @@ sk:pmb30421 a frbroo:F22_Self-Contained_Expression ;
 sk:pmb30611 a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Also sprach Zarathustra"@und ;
     cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb30611/title/0> .
-
-sk:pmb30867 a frbroo:F22_Self-Contained_Expression ;
-    rdfs:label "Henry IV, Part 1"@und ;
-    cidoc:P102_has_title <https://sk.acdh.oeaw.ac.at/pmb30867/title/0> .
 
 sk:pmb31181 a frbroo:F22_Self-Contained_Expression ;
     rdfs:label "Die Verschwörung des Fiesko zu Genua"@und ;

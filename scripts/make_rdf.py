@@ -106,7 +106,7 @@ for x in tqdm(items, total=len(items)):
         pred=CIDOC["P10_falls_within"],
         sbj_class=FRBROO["F51_Pursuit"],
         obj_node_xpath="./tei:occupation",
-        obj_node_value_xpath="./@key",
+        obj_node_value_xpath=None,
         obj_process_condition="./@type='sk'",
         obj_class=CIDOC["E4_Period"],
         default_lang="en",
